@@ -12,7 +12,8 @@ Starting with version 0.4, open **Updates** on the title screen or in the game m
 | 0.7 | Level 9 | Rooftop ginger garden |
 | 0.8 | Level 10 | Cycle workshop |
 | 0.9 | Level 10 | Level board, shift jobs and XP progression |
+| 0.10 | Level 10 | Illustrated district map, kettle queue, repeat customers, gardens and bike deliveries |
 
-In 0.9, the level board shows all ten locations together. Tap an open level to visit its location and choose its story or shift jobs. Tap a locked level to preview its first job and XP requirement. Each location has six shift jobs. Completing the story and earning the displayed XP unlocks the next location. Install the 0.9 APK for this game update.
+Version 0.10 shows all ten districts on an illustrated map of Lahore. Tap a stall to brew, restock or serve a customer. Repeat sales award coins and XP, and a repaired bicycle can earn delivery income or timber for more shelf space. Tap an open level to visit its location and choose its story or shift jobs. Tap a locked level to preview its first job and XP requirement. Each location has six shift jobs. Completing the story and earning the displayed XP unlocks the next location. Install the 0.10 APK over your existing save for the working market.
 
 Each release contains a signed APK and its chapter catalog. The in-game feed reads the catalog attached to the latest release. Offline play uses the most recently installed catalog.
