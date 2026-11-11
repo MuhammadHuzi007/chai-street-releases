@@ -14,9 +14,12 @@ Starting with version 0.4, open **Updates** on the title screen or in the game m
 | 0.9 | Level 10 | Level board, shift jobs and XP progression |
 | 0.10 | Level 10 | Illustrated district map, kettle queue, repeat customers, gardens and bike deliveries |
 | 0.11 | Level 10 | 360° town and district maps with touch pan, pinch zoom and orbit |
+| 0.12 | Level 10 | Painted Lahore storefronts, animated 3D residents, tea carts and market gardens |
 
-In version 0.11, drag on the town or district streets to pan, pinch to zoom, and twist two fingers to turn the camera. The arrows rotate the view in steps. The compass restores the starting view. Tap a district to enter it or inspect its unlock requirements. Inside a district, tap the kettle, a customer, or a work station to play. Each location has six shift jobs. Completing its story and earning the displayed XP unlocks the next location.
+Version 0.12 gives the Lahore bazaars carved balconies, patterned awnings, tea tins, painted buses and 3D residents in embroidered clothing. Walking customers turn toward the stall, trees sway, and steam rises from the samovar.
 
-Open **Updates** in your installed game to download the 0.11 APK, then install it over your existing copy to keep your saved progress.
+Drag on the town or district streets to pan, pinch to zoom, and twist two fingers to turn the camera. The arrows rotate the view in steps. The compass restores the starting view. Tap a district to enter it or inspect its unlock requirements. Inside a district, tap the kettle, a customer, or a work station to play. Each location has six shift jobs. Completing its story and earning the displayed XP unlocks the next location.
+
+Open **Updates** in your installed game to download the 0.12 APK, then install it over your existing copy to keep your saved progress.
 
 Each release contains a signed APK and its chapter catalog. The in-game feed reads the catalog attached to the latest release. Offline play uses the most recently installed catalog.
