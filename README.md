@@ -13,7 +13,10 @@ Starting with version 0.4, open **Updates** on the title screen or in the game m
 | 0.8 | Level 10 | Cycle workshop |
 | 0.9 | Level 10 | Level board, shift jobs and XP progression |
 | 0.10 | Level 10 | Illustrated district map, kettle queue, repeat customers, gardens and bike deliveries |
+| 0.11 | Level 10 | 360° town and district maps with touch pan, pinch zoom and orbit |
 
-Version 0.10 shows all ten districts on an illustrated map of Lahore. Tap a stall to brew, restock or serve a customer. Repeat sales award coins and XP, and a repaired bicycle can earn delivery income or timber for more shelf space. Tap an open level to visit its location and choose its story or shift jobs. Tap a locked level to preview its first job and XP requirement. Each location has six shift jobs. Completing the story and earning the displayed XP unlocks the next location. Install the 0.10 APK over your existing save for the working market.
+In version 0.11, drag on the town or district streets to pan, pinch to zoom, and twist two fingers to turn the camera. The arrows rotate the view in steps. The compass restores the starting view. Tap a district to enter it or inspect its unlock requirements. Inside a district, tap the kettle, a customer, or a work station to play. Each location has six shift jobs. Completing its story and earning the displayed XP unlocks the next location.
+
+Open **Updates** in your installed game to download the 0.11 APK, then install it over your existing copy to keep your saved progress.
 
 Each release contains a signed APK and its chapter catalog. The in-game feed reads the catalog attached to the latest release. Offline play uses the most recently installed catalog.
