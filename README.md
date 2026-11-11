@@ -4,14 +4,15 @@
 
 Starting with version 0.4, open **Updates** on the title screen or in the game menu. The game checks on launch and every 15 minutes while running. **Apply chapter update** downloads and activates compatible story content without reinstalling. An APK download is also offered when a newer application version is available. Version 0.3 and earlier require one manual APK update to get the update screen.
 
-| APK | Included through | New place |
+| APK | Included through | Addition |
 | --- | --- | --- |
 | 0.4 | Level 6 | Book exchange |
 | 0.5 | Level 7 | Second food stall |
 | 0.6 | Level 8 | Shared courtyard |
 | 0.7 | Level 9 | Rooftop ginger garden |
 | 0.8 | Level 10 | Cycle workshop |
+| 0.9 | Level 10 | Level board, shift jobs and XP progression |
 
-Swipe around the looping street or use **Menu → District** to preview all five locations. Completing one chapter unlocks the next. Downloading a chapter preserves its gameplay requirements.
+In 0.9, the level board shows all ten locations together. Tap an open level to visit its location and choose its story or shift jobs. Tap a locked level to preview its first job and XP requirement. Each location has six shift jobs. Completing the story and earning the displayed XP unlocks the next location. Install the 0.9 APK for this game update.
 
 Each release contains a signed APK and its chapter catalog. The in-game feed reads the catalog attached to the latest release. Offline play uses the most recently installed catalog.
