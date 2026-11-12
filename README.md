@@ -15,6 +15,8 @@ Starting with version 0.4, open **Updates** on the title screen or in the game m
 | 0.10 | Level 10 | Illustrated district map, kettle queue, repeat customers, gardens and bike deliveries |
 | 0.11 | Level 10 | 360° town and district maps with touch pan, pinch zoom and orbit |
 | 0.12 | Level 10 | Painted Lahore storefronts, animated 3D residents, tea carts and market gardens |
+| 0.13 | Level 10 | Player profiles, photos, lighting, settings and the till book |
+| 0.14 | Level 10 | Hands-on brewing, three-customer shifts, rainy streets and cart fittings |
 
 Version 0.12 gives the Lahore bazaars carved balconies, patterned awnings, tea tins, painted buses and 3D residents in embroidered clothing. Walking customers turn toward the stall, trees sway, and steam rises from the samovar.
 
@@ -23,5 +25,7 @@ Drag on the town or district streets to pan, pinch to zoom, and twist two finger
 Open **Updates** in your installed game to download the latest APK, then install it over your existing copy to keep your saved progress.
 
 Version 0.13 adds player profiles, device photos and a till book. Tap the portrait beside your coins to change your name or picture, or open Settings to adjust street ambience, lighting, graphics and camera glide. Live lighting follows Lahore time. The till book shows your last 24 counter sales. Photos are stored on your own device.
+
+Version 0.14 adds Morning Rush to each unlocked district. Open **Tea cart → Morning Rush → Open shift** to meet the first bus. Measure the ingredients, adjust the flame, and hold to pour. Match each regular’s strength preference to earn a tip. Open **Cart fittings** to buy a second burner, a drying rack or an awning. Rain brings customers under cover and increases demand for ginger chai once the recipe unlocks.
 
 Each release contains a signed APK and its chapter catalog. The in-game feed reads the catalog attached to the latest release. Offline play uses the most recently installed catalog.
