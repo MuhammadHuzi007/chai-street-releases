@@ -20,6 +20,8 @@ Version 0.12 gives the Lahore bazaars carved balconies, patterned awnings, tea t
 
 Drag on the town or district streets to pan, pinch to zoom, and twist two fingers to turn the camera. The arrows rotate the view in steps. The compass restores the starting view. Tap a district to enter it or inspect its unlock requirements. Inside a district, tap the kettle, a customer, or a work station to play. Each location has six shift jobs. Completing its story and earning the displayed XP unlocks the next location.
 
-Open **Updates** in your installed game to download the 0.12 APK, then install it over your existing copy to keep your saved progress.
+Open **Updates** in your installed game to download the latest APK, then install it over your existing copy to keep your saved progress.
+
+Version 0.13 adds player profiles, device photos and a till book. Tap the portrait beside your coins to change your name or picture, or open Settings to adjust street ambience, lighting, graphics and camera glide. Live lighting follows Lahore time. The till book shows your last 24 counter sales. Photos are stored on your own device.
 
 Each release contains a signed APK and its chapter catalog. The in-game feed reads the catalog attached to the latest release. Offline play uses the most recently installed catalog.
