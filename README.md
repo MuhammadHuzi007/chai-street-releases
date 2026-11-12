@@ -17,6 +17,7 @@ Starting with version 0.4, open **Updates** on the title screen or in the game m
 | 0.12 | Level 10 | Painted Lahore storefronts, animated 3D residents, tea carts and market gardens |
 | 0.13 | Level 10 | Player profiles, photos, lighting, settings and the till book |
 | 0.14 | Level 10 | Hands-on brewing, three-customer shifts, rainy streets and cart fittings |
+| 0.15 | Level 10 | Two-action first level, guided mint garden and hints that fade with experience |
 
 Version 0.12 gives the Lahore bazaars carved balconies, patterned awnings, tea tins, painted buses and 3D residents in embroidered clothing. Walking customers turn toward the stall, trees sway, and steam rises from the samovar.
 
@@ -27,5 +28,7 @@ Open **Updates** in your installed game to download the latest APK, then install
 Version 0.13 adds player profiles, device photos and a till book. Tap the portrait beside your coins to change your name or picture, or open Settings to adjust street ambience, lighting, graphics and camera glide. Live lighting follows Lahore time. The till book shows your last 24 counter sales. Photos are stored on your own device.
 
 Version 0.14 adds Morning Rush to each unlocked district. Open **Tea cart → Morning Rush → Open shift** to meet the first bus. Measure the ingredients, adjust the flame, and hold to pour. Match each regular’s strength preference to earn a tip. Open **Cart fittings** to buy a second burner, a drying rack or an awning. Rain brings customers under cover and increases demand for ginger chai once the recipe unlocks.
+
+Version 0.15 opens with two taps at the tea cart. Brew one glass and serve Bashir to unlock the mint garden. The map opens after the second lesson. During later chapters, tap **? Help** for instructions and **Show me** to highlight a control.
 
 Each release contains a signed APK and its chapter catalog. The in-game feed reads the catalog attached to the latest release. Offline play uses the most recently installed catalog.
